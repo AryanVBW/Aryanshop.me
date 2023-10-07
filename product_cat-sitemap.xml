@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on June 21, 2023 at 4:00 pm by All in One SEO v4.3.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=product_cat"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/product-category/information-gathering/]]></loc>
+		<lastmod><![CDATA[2023-05-02T13:56:43+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/vulnerability-analysis/]]></loc>
+		<lastmod><![CDATA[2023-05-02T13:56:43+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/exploitation-tools/]]></loc>
+		<lastmod><![CDATA[2023-05-02T13:56:43+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/reverse-engineering/]]></loc>
+		<lastmod><![CDATA[2023-04-30T08:58:25+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/social-engineering/]]></loc>
+		<lastmod><![CDATA[2023-05-02T13:56:43+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/skyrocket-your-instagram/]]></loc>
+		<lastmod><![CDATA[2023-06-21T15:55:38+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/powerhouse-of-influencer/]]></loc>
+		<lastmod><![CDATA[2023-06-21T15:55:38+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>

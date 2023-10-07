@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on June 21, 2023 at 3:59 pm by All in One SEO v4.3.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:02:26+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:46:47+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/attachment-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2021-08-17T07:47:52+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/product-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-30T08:58:25+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/cartflows_flow-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:18:41+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/cartflows_step-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:26:45+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:02:26+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/product_cat-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-06-21T15:55:38+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/product_tag-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-06-21T15:39:25+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

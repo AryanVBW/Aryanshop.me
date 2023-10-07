@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on June 21, 2023 at 3:59 pm by All in One SEO v4.3.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2023-06-21T15:53:51+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/davidsir.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/chuck_keith.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/04/42796435.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/myai-account/]]></loc>
+		<lastmod><![CDATA[2023-04-29T21:07:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/contact/]]></loc>
+		<lastmod><![CDATA[2023-04-28T09:54:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/shop/]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:46:47+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/sample-page/]]></loc>
+		<lastmod><![CDATA[2023-04-28T07:02:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
