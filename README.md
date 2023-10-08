@@ -28,9 +28,9 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are a few projects I'm proud of:
 
-- [ANDRO](https://github.com/yourusername/project1): Brief description and link.
-- [LinuxDroid](https://github.com/yourusername/project2): Brief description and link.
-- [WifiJAM](https://github.com/yourusername/project3): Brief description and link.
+- [ANDRO](https://github.com/AryanVBW/ANDRO): A cloud based remote android managment suite.
+- [LinuxDroid](https://github.com/AryanVBW/LinuxDroid): Linux on Android e.g Kali nethuter,Ubatu GUI/CLI,kali GUI,Arch Linux CLI.
+- [WifiJAM](https://github.com/AryanVBW/WIFIjam):Python WiFi Deauthentication Script.
 
 ## Connect with Me
 
