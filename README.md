@@ -44,4 +44,4 @@ Let's connect and collaborate on exciting projects:
 
 Feel free to reach out, and let's build something amazing together! 🚀
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/aryanvbw)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvbw&show_icons=true&theme=dark)](https://github.com/aryanvbw)
