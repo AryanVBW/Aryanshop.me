@@ -22,15 +22,15 @@ Here are some of the technologies and tools I frequently work with:
 - 🌐 Web Technologies:e.g., HTML5, CSS3, GraphQL
 - 📦 Databases: e.g., MongoDB, MySQL, PostgreSQL
 - 🖥️ DevOps & Tools:e.g., Docker, Git, AWS
-- 🔒 Cybersecurity & Ethical Hacking: [Mention any relevant tools or certifications]
+- 🔒 Cybersecurity & Ethical Hacking:Nmap (Network Mapper),Metasploit,Wireshark,Burp Suite,Aircrack-ng,Nikto,WifiTe etc.
 
 ## Projects
 
 Here are a few projects I'm proud of:
 
-- [Project 1](https://github.com/yourusername/project1): Brief description and link.
-- [Project 2](https://github.com/yourusername/project2): Brief description and link.
-- [Project 3](https://github.com/yourusername/project3): Brief description and link.
+- [ANDRO](https://github.com/yourusername/project1): Brief description and link.
+- [LinuxDroid](https://github.com/yourusername/project2): Brief description and link.
+- [WifiJAM](https://github.com/yourusername/project3): Brief description and link.
 
 ## Connect with Me
 
