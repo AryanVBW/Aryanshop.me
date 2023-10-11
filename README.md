@@ -37,7 +37,7 @@ Let's connect and collaborate on exciting projects:
 
 - 📧 Email: [vivek@aryanvbw.tech](mailto:vivek@aryanvbw.tech)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- 🐦 Twitter: [@vivekwagadare](https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09)
 - 🌐 Web store: [Aryanshop.me](https://aryanshop.me)
 - 📷 Instagram: [@yourinstagramhandle](https://instagram.com/yourinstagramhandle)
 
