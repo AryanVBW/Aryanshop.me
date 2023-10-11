@@ -5,9 +5,8 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Aryanvbw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09)
 [![Instagram followers](https://img.shields.io/github/followers/_aryan_technologies_?label=Follow&style=social)](https://instagram.com/_aryan_technologies_?igshid=MzMyNGUyNmU2YQ==)
-[![LinkedIn connections](https://img.shields.io/linkedin/connections/vivek-wagadare-b677a9216?label=Follow&style=social)](https://www.linkedin.com/in/vivek-wagadare-b677a9216)
-[![Instagram followers](https://img.shields.io/instagram/followers/_aryan_technologies_?label=Follow&style=social)](https://instagram.com/_aryan_technologies_?igshid=MzMyNGUyNmU2YQ==)
-[![Instagram followers](https://img.shields.io/instagram/followers/_aryan_technologies_?label=Follow&style=social&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png)](https://instagram.com/_aryan_technologies_?igshid=MzMyNGUyNmU2YQ==)
+[![LinkedIn connections]()](https://www.linkedin.com/in/vivek-wagadare-b677a9216)
+
 
 
 ## About Me
