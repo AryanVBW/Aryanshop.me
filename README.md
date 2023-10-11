@@ -7,9 +7,8 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 
 ## About Me
 
-- 🔭 I'm currently working on [mention a project or area of interest].
+- 🔭 I'm currently working on https://aryanvbw.github.io/
 - 🌱 I'm constantly learning and exploring new technologies and tools.
-- 💬 Ask me about [mention your expertise or interests].
 - 📫 How to reach me: [admin@aryanvbw.tech](mailto:admin@aryanvbw.tech)
 - 😄 Pronouns: he
 
