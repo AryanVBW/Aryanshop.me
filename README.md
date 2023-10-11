@@ -5,7 +5,7 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Aryanvbw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09)
 [![Instagram followers](https://img.shields.io/github/followers/_aryan_technologies_?label=Follow&style=social)](https://instagram.com/_aryan_technologies_?igshid=MzMyNGUyNmU2YQ==)
-[![LinkedIn connections](https://img.shields.io/linkedin/connections/vivekwagadare?label=Follow&style=social)](https://www.linkedin.com/in/vivekwagadare)
+[![LinkedIn connections](https://img.shields.io/linkedin/connections/vivekwagadare?label=Follow&style=social)](https://www.linkedin.com/in/vivek-wagadare-b677a9216)
 
 ## About Me
 
